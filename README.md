@@ -5,6 +5,7 @@ This is a simple python script that scrape information about a given domain name
 "python alexa_get_rank.py google.com" 
 
 It will probably return:
+
 "google.com 1449576825.79 1 1 0"
 
 The columns means the following:
