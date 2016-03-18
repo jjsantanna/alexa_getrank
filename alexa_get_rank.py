@@ -52,5 +52,5 @@ if __name__ == '__main__':
         popularity_rank, reach_rank, popularity_delta = data
 
     #print "#c1:url\t#c2:timestamp\t#c3:popularity\t#c4:reach_rank\t#c5:rank_delta" #for debug purpose
-    print url, measurement_time, popularity_rank, reach_rank, popularity_delta
+    print url+";"+str(measurement_time)+";"+str(popularity_rank)+";"+str(reach_rank)+";"+str(popularity_delta)
 
