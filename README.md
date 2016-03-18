@@ -6,7 +6,7 @@ This is a simple python script that scrape information about a given domain name
 
 It will probably return:
 
-"google.com 1449576825.79 1 1 0"
+"google.com;1449576825.79;1;1;0"
 
 The columns means the following:
 1st) the tested_URL; 
